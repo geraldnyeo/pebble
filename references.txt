@@ -1,0 +1,37 @@
+Tutorials
+ - Tauri Tutorial: https://www.youtube.com/watch?v=BVCdaVzWM1w
+ - Tauri SvelteKit Setup: https://v1.tauri.app/v1/guides/getting-started/setup/sveltekit
+ - Getting Tauri to work in WSL: https://penner.me/getting-tauri-working-in-wsl
+ - Persistent State in Tauri Apps: https://aptabase.com/blog/persistent-state-tauri-apps
+ - Tauri plugin store: https://v2.tauri.app/plugin/store/
+
+Bugs / Features
+ - Change layout in response to page event: https://stackoverflow.com/questions/75782055/sveltekit-change-layout-in-response-to-button-click-in-page
+ - Clicking outside a div: https://svelte.dev/playground/0ace7a508bd843b798ae599940a91783?version=5.34.9
+ - Custom Svelte store examples: https://fireship.io/snippets/custom-svelte-stores/
+ - Svelte getters and setters: https://www.reddit.com/r/sveltejs/comments/16qh1wy/svelte_5_runes_whats_the_deal_with_getters_and/
+ - Adding async event listener sveltekit: https://stackoverflow.com/questions/78470083/passing-a-promise-to-addeventlistener-in-typescript
+ - Async/await in $effect: https://joyofcode.xyz/avoid-async-effects-in-svelte
+ - Create a global state, specifically the response which uses "$dervied": https://www.reddit.com/r/SvelteKit/comments/1g9c0hb/how_to_create_a_global_state_manager/
+ - Draggable Sortable List: https://fireship.io/courses/sveltekit/project-sortable-list/
+ - Drag and Drop API: https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API
+ - Rust sort by key: https://stackoverflow.com/questions/68390443/how-to-sort-a-veccowstr-cowstr-by-key-without-cloning
+ - Enable Drag and Drop in Tauri (disable default drag and drop): https://ellie.wtf/notes/drag-event-issues-in-Tauri
+ - Sveltekit get last visited route: https://stackoverflow.com/questions/78108015/sveltekit-get-last-visited-route
+ - Redirect to another page: https://stackoverflow.com/questions/74805197/how-to-redirect-to-page-in-sveltekit
+ - Go back to previous page SvelteKit: https://stackoverflow.com/questions/71564541/going-back-to-the-previous-page-with-goto-sveltekit-navigation
+ - Day name from date in JS: https://stackoverflow.com/questions/24998624/day-name-from-date-in-js
+ - Context Sensitive Right Click Menu: https://stackoverflow.com/questions/64390569/how-to-create-a-context-sensitive-right-click-menu-in-svelte
+ - Cannot access dataTransfer from dragOver or dragEnter: https://stackoverflow.com/questions/31915653/how-to-get-data-from-datatransfer-getdata-in-event-dragover-or-dragenter
+ - Prevent drag events from triggering: https://medium.com/developer-rants/preventing-drag-events-from-triggering-over-child-elements-5700f385a95e
+ - Maintaining width with padding: https://www.w3schools.com/css/css_padding.asp#:~:text=To%20keep%20the%20width%20at,available%20content%20space%20will%20decrease
+ - Flexbox separators: https://medium.com/@massimo.cassandro/flexbox-separators-b284d6d7b747
+ - Get days of month JS: https://medium.com/@chamithmathukorala/how-do-you-get-all-the-days-of-the-month-in-node-js-fbb64435183b
+ - Equal height rows in grid-template-rows: https://ambientimpact.com/web/snippets/equal-height-rows-in-css-grid-layout
+ - Prevent content from expanding grid items: https://stackoverflow.com/questions/43311943/prevent-content-from-expanding-grid-items
+ - Where to put global CSS variables in svelte: https://stackoverflow.com/questions/56083580/svelte-is-there-a-way-to-make-global-css-variables-in-scope-of-svelte-component
+
+Making Sense of Tauri Rust code
+ - Serde for serializing and deserializing data: https://serde.rs/
+ - PathResolver documentation (see app_data_dir): https://docs.rs/tauri/latest/tauri/path/struct.PathResolver.html
+ - Rust Commands: https://v2.tauri.app/develop/calling-rust/
