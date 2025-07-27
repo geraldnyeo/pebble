@@ -30,6 +30,8 @@ Bugs / Features
  - Equal height rows in grid-template-rows: https://ambientimpact.com/web/snippets/equal-height-rows-in-css-grid-layout
  - Prevent content from expanding grid items: https://stackoverflow.com/questions/43311943/prevent-content-from-expanding-grid-items
  - Where to put global CSS variables in svelte: https://stackoverflow.com/questions/56083580/svelte-is-there-a-way-to-make-global-css-variables-in-scope-of-svelte-component
+ - Tauri updater: https://v2.tauri.app/plugin/updater/
+ - Tauri updater tutorial: https://thatgurjot.com/til/tauri-auto-updater/
 
 Making Sense of Tauri Rust code
  - Serde for serializing and deserializing data: https://serde.rs/
