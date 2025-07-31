@@ -1,0 +1,11 @@
+{
+    "version": "v0.0.1",
+    "notes": "Basic task calendar functionality",
+    "pub_date": "2025-07-27T21:48:56+08:00",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd1ZLRXA4M3Rscmg0NWZBZzhjb3oyZnJHdnJTTHEveHJtT3daZHp0Yzh5VTRjMGVuK0FzZnJtaVRVQkhwTGNHa2Z4MU03cWdQVk16b0YyM2N4eHZ3eFZJVDN3d0F4aXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNjI2OTM5CWZpbGU6UGViYmxlXzAuMC4xX3g2NC1zZXR1cC5leGUKTVN2OGxVcGxoMFd1bUtzMWFJWC9WRzdaVmU4RGJTbU15aW9XUWVPWERrOVovMGdKZlA4RjZQekMrK0QxUkF5RDlVSWNINEFaQ1gwT3pGQi9WL3Y3QlE9PQo=",
+            "url": "https://github.com/geraldnyeo/pebble/releases/v0.0.1/download/Pebble_0.0.1_x64-setup.exe"
+        }
+    }
+}
